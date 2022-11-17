@@ -1,5 +1,5 @@
 javascript:
-var question = prompt("What is the answer")
+var question = prompt("What is the answer");
 if(question == "bombs") {
   alert("Correct");
 }
